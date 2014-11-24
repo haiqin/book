@@ -1,4 +1,4 @@
-book
+Book
 ====
 
-there are useful .PDFs of CS
+There are useful PDFs of CS.
